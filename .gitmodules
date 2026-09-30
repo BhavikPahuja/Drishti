@@ -1,0 +1,12 @@
+[submodule "Dristhi-NLP"]
+	path = Dristhi-NLP
+	url = https://github.com/k-trim/Dristhi-NLP
+[submodule "Dristhi-Backend"]
+	path = Dristhi-Backend
+	url = https://github.com/BhavikPahuja/Dristhi-Backend
+[submodule "DRISHTI_AGENTS"]
+	path = DRISHTI_AGENTS
+	url = https://github.com/Aditya05-spec/DRISHTI_AGENTS
+[submodule "Drishti_Frontend_1"]
+	path = Drishti_Frontend_1
+	url = https://github.com/Smyle-Goyal/Drishti_Frontend_1
